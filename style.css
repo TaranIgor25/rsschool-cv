@@ -3,6 +3,7 @@ html, body {
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-image: url(/rsschool-cv/Photo.jpg)
 }
 table {
     border-collapse: collapse;
